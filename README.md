@@ -7,6 +7,11 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt=""/>
 </div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 🔭 I’m currently working on an Angular blog
 - 🤔 I’m looking for an internship
 - 📫 How to reach me: loujohn.genthon@gmail.com
