@@ -18,6 +18,8 @@ I am a third year CS student from France
 
 - :zap: In my free time, I browse Leetcode
 
+- 👁️ Currently looking for an internship
+
 
 ---
 
