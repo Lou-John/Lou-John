@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a third year CS student from France
+I am a third year french CS student
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
