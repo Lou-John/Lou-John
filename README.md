@@ -11,14 +11,14 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a third year french CS student
+I am a fourth year french CS student, currently doing my masters.
+I am also working at Groupe Casino for a two year internship.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I browse Leetcode
-
-- 👁️ Currently looking for an internship
 
 
 ---
