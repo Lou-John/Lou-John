@@ -18,7 +18,7 @@ I am also working at Groupe Casino for a two year internship.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I browse Leetcode
+- :zap: In my free time, I'm struggling on leetcode, I'm reading or I'm boxing
 
 
 ---
