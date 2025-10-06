@@ -11,11 +11,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a fifth year CS student, currently doing my masters.
-I am also working at Groupe Casino for a two year internship.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :zap: Currently building a home plant care app.
+Currently working as a software engineer in a French company providing a retail SAAS product.
 
 # 💻 Tech Stack:
 **Languages:**  
